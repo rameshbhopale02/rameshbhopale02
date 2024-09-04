@@ -1,28 +1,26 @@
 <h1 align="center">Hi 👋, I'm Ramesh Bhopale</h1>
-<h3 align="center">A passionate Computer Engineering Student from India</h3>
+<h3 align="center">A passionate Computer Engineering Student Pune, Maharashtra</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshbhopale02&label=Profile%20views&color=0e75b6&style=flat" alt="rameshbhopale02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rameshbhopale02" alt="rameshbhopale02" /></a> </p>
+- 🔭 I’m currently working on **Intrution Detection System Project (Major Project)**
 
-- 🔭 I’m currently working on **Intrution Detection System**
+- 🌱 I’m currently learning **Computer Networking, Advanced DSA, Backend Development**
 
-- 🌱 I’m currently learning **Computer Networking Core CE Subject**
-
-- 💬 Ask me about **Data Structure & Algorithms,**
+- 💬 Ask me about **Data Structure & Algorithms**
 
 - 📫 How to reach me **ramesh.bhopale2021@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CfcsUgGAQYkJfULUGN0VlNpjmq7PFw2q/view?usp=sharing](https://drive.google.com/file/d/1CfcsUgGAQYkJfULUGN0VlNpjmq7PFw2q/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/dJBRg](https://shorturl.at/dJBRg)
 
-- ⚡ Fun fact **I think i know everything.**
+- ⚡ Fun fact **I always think " I knows everything. "**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rameshbhopale02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rameshbhopale02/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ramesh_bhopale21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ramesh_bhopale21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode.com/u/rgb2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/rgb2002/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/bhopaleramesh02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/bhopaleramesh02/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rameshbhopale02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rameshbhopale02" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ramesh_bhopale21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ramesh_bhopale21" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rgb2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rgb2002" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/bhopaleramesh02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhopaleramesh02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
