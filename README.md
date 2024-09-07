@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Data Structure & Algorithms**
 
-- 📫 How to reach me **ramesh.bhopale2021@gmail.com**
+- 📫 How to reach me **bhopaleramesh2002@gmail.com**
 
 - 📄 Know about my experiences [https://shorturl.at/dJBRg](https://shorturl.at/dJBRg)
 
