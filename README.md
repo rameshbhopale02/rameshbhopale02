@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://shorturl.at/dJBRg](https://shorturl.at/dJBRg)
 
-- ⚡ Fun fact **I always think " I knows everything. "**
+- ⚡ Fun fact **I always thinks " I knows everything. "**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
