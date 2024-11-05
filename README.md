@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **bhopaleramesh2002@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/dJBRg](https://shorturl.at/dJBRg)
+- 📄 Know about my experiences [https://shorturl.at/dJBRg](https://rb.gy/b61hfo)
 
 - ⚡ Fun fact **I always thinks " I knows everything. "**
 
