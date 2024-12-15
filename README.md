@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshbhopale02&label=Profile%20views&color=0e75b6&style=flat" alt="rameshbhopale02" /> </p>
 
-- 🔭 I’m currently working on **Intrution Detection System Project (Major Project)**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Computer Networking, Advanced DSA, Backend Development**
+- 🌱 I’m currently learning ****
 
 - 💬 Ask me about **Data Structure & Algorithms**
 
