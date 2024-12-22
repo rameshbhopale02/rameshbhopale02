@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshbhopale02&label=Profile%20views&color=0e75b6&style=flat" alt="rameshbhopale02" /> </p>
 
-- 🔭 I’m currently working on **Intrution Detection System (Major Project)**
 
 - 🌱 I’m currently learning **Data Science**
 
