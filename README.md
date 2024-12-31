@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [resume](https://rb.gy/b61hfo)
 
-- ⚡ Fun fact **I always thinks " I knows everything. "**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
