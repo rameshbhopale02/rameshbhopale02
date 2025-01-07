@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Ramesh Bhopale</h1>
 <h3 align="center">Final Year Computer Engineering Student VIT Pune</h3>
 
