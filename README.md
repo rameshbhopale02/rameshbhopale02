@@ -59,6 +59,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rameshbhopale02&show_icons=true&locale=en" alt="rameshbhopale02" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rameshbhopale02" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameshbhopale02&" alt="rameshbhopale02" /></p>
 
 
