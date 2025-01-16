@@ -57,8 +57,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameshbhopale02&show_icons=true&locale=en&layout=compact" alt="rameshbhopale02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rameshbhopale02&show_icons=true&locale=en" alt="rameshbhopale02" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rameshbhopale002&show_icons=true&locale=en" alt="rameshbhopale02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameshbhopale02&" alt="rameshbhopale02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameshbhopale002&" alt="rameshbhopale02" /></p>
 
 
